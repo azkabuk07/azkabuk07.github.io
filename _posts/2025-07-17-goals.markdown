@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Goals of this blog"
+date:   2025-07-17 09:41:46 -0500
+categories: Henkes
+---
+
+-to improve my writing skills
+-to share updates and thoughts about my life and readings
+-to document my hormones
