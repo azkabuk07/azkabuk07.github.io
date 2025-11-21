@@ -1,10 +1,13 @@
 ---
 layout: post
-title:  "Goals of this blog"
+title:  "Education & Background"
 date:   2025-07-17 09:41:46 -0500
-categories: Henkes
+categories: Cybersecurity
 ---
 
--to improve my writing skills
--to share updates and thoughts about my life and readings
--to document my hormones
+<h1> Education & Background </h1>
+
+<p>I hold a Bachelor's and Master's degree in Education. I am currently working on completing my Associate's degree in Applied Science in Computer Systems Networking. 
+I am working on getting my CompTIA A+ certification. I have been working as a computer science teacher for over 18 years. I have intermediate understanding of Python, Java and Object Oriented Programming. </p>
+
+
