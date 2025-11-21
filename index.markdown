@@ -10,7 +10,7 @@ layout: home
 
 <h2>My Journey</h2>
 <p></p>I specifically enjoy network traffic analysis and web application security. While I have fun using different tools and programs to crack passwords and recover files, my true passion lies in understanding the fundamentals of the networking world. I believe that a strong grasp of the basics is essential for anyone looking to excel in cybersecurity. </p>
-<br>What You'll Find Here</br>
+<h2>What You'll Find Here</h2>
 <li>Personal Experiences : Challenges faced and lessons learned</li>
 <li>Cybersecurity Competitions</li>
 <li>Tools & Review: Useful websites, videos and hacks</li>
